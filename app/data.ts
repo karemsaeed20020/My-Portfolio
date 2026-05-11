@@ -86,7 +86,7 @@ export const projects = [
     tags: ["Next.js", "React", "MongoDB", "Express", "Redux", "JWT"],
     image: "/images/preview.png",
     github: "https://github.com/karemsaeed20020/Entry-Ecommerce",
-    live: "#",
+    live: "https://drive.google.com/file/d/1AAW2CVSCUi58q8D3smifFIJqbg8aJ7fT/view",
     accent: "#6B8F71",
     featured: true,
   },
@@ -211,6 +211,19 @@ export const projects = [
     "Audit logging for user actions",
   ],
 },
+  {
+  id: 10,
+  title: "Quran Application",
+  subtitle: "Real-time Messaging · Private & Group Chats · SignalR",
+  desc: "Full-featured real-time chat application with private and group conversations, media sharing, message read receipts, typing indicators, and user presence. Built with ASP.NET Core 10 backend and React frontend.",
+  tags: ["ASP.NET Core", "SignalR", "SQL Server", "EF Core", "JWT", "Hangfire", "FluentValidation"],
+  image: "/images/Screenshot 2026-05-12 011620.png",
+  github: "https://github.com/karemsaeed20020/Quran",
+  live: "https://quran-flax-chi.vercel.app/",
+  accent: "#8B5CF6",
+  featured: true
+},
+
 ];
 
 export const experience = [
